@@ -28,5 +28,7 @@ This project showcases my proficiency in statistical modeling, data analysis, an
 ![Financial Risk Analysis in Banking_page-0008](https://github.com/manish4102/SVB-Analysis/assets/91743234/b67424f1-2ac5-4272-8ee4-87cae7ee6fa5)
 ![Financial Risk Analysis in Banking_page-0009](https://github.com/manish4102/SVB-Analysis/assets/91743234/836a26af-11b5-4902-bca5-05e1dbcc185a)
 ![Financial Risk Analysis in Banking_page-0010](https://github.com/manish4102/SVB-Analysis/assets/91743234/cd63e69f-5e26-4b1a-a3aa-3057d9e078a4)
+![WhatsApp Image 2024-07-05 at 12 03 19 AM](https://github.com/manish4102/SVB-Analysis/assets/91743234/1000c85f-2922-45df-8116-ff5add73ec72)
+![WhatsApp Image 2024-07-05 at 12 03 20 AM](https://github.com/manish4102/SVB-Analysis/assets/91743234/55981953-52a8-4e4e-b298-6748766f0bf6)
 ![Financial Risk Analysis in Banking_page-0011](https://github.com/manish4102/SVB-Analysis/assets/91743234/740880f2-9dd9-4cfe-9a65-54b4adf50e3e)
 
