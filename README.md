@@ -18,6 +18,17 @@ The integration of Power BI dashboards further facilitated clear and insightful 
 
 This project showcases my proficiency in statistical modeling, data analysis, and strategic advisory, highlighting my ability to derive actionable insights from complex financial data sets.
 
+## Technologies Used 💻
+* 🐍 Python
+* 📊 Power BI
+* 🐼 Pandas
+* 🔢 NumPy
+* 🔗 TensorFlow
+* 📈 Matplotlib
+
+I have also published a research paper on the same project. Take a look at it [here](https://ieeexplore.ieee.org/document/10511378).
+
+
 ![Financial Risk Analysis in Banking_page-0001](https://github.com/manish4102/SVB-Analysis/assets/91743234/2edc1da4-1bd0-4bff-abb4-db2c31a447bd)
 ![Financial Risk Analysis in Banking_page-0002](https://github.com/manish4102/SVB-Analysis/assets/91743234/cad2f45b-2686-404d-b7ca-ad1f0fff89dd)
 ![Financial Risk Analysis in Banking_page-0003](https://github.com/manish4102/SVB-Analysis/assets/91743234/2592c51a-661b-41b9-9160-c9ca605db42d)
